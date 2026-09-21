@@ -4,3 +4,4 @@ django-cors-headers>=4.4
 cryptography>=42.0
 pymongo>=4.7
 python-dotenv>=1.0
+gunicorn>=26.0
